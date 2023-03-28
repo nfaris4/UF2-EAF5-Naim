@@ -1,0 +1,2662 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="cartelera.xsl"?>
+<cartelera last-mod="16/03/2023 - 05:07">
+    <recinto id="1" value="CINES LYS">
+        <address>Pso. Ruzafa, 3</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="REPARAR A LOS VIVOS" id="3660" uid="18528"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdreparar-a-los-vivos/3660/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG002x0.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>104</duracion>
+            <sinopsis>Todo comienza de madrugada en un mar tempestuoso con tres j�venes surfistas.
+                Unas horas m�s tarde, en el camino de vuelta sufren un accidente. En el hospital
+                Havre, la vida de Sim�n pende de un hilo. Mientras tanto, en Par�s, una mujer espera
+                un trasplante providencial que le pueda prolongar su vida. Thomas Remige, un
+                especialista en trasplantes, debe convencer a unos padres en estado de shock de que
+                ese coraz�n podr�a seguir viviendo en otro cuerpo. Y salvar, tal vez, una vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=kJPziTGiUaw</trailer>
+            <fechas>
+                <fecha value="01/06/2023">
+                    <sesiones>
+                        <sesion id="326868"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdreparar-a-los-vivos/326868/"
+                            sala="14" version="Doblada al Castellano" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TODO A LA VEZ EN TODAS PARTES" id="5329" uid="31544"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/5329/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00der.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Una inmigrante china, en medio de una investigaci�n de Hacienda, se ve
+                envuelta en una aventura salvaje en la que solo ella puede salvar el mundo
+                explorando otros universos. Desafortunadamente, esto la lleva a una aventura a�n
+                mayor cuando se encuentra perdida en los mundos infinitos del multiverso.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=UcTzHfkgkRI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327817"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/327817/"
+                            sala="2" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327940"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/327940/"
+                            sala="13" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                        <sesion id="327942"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/327942/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="22:30" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327943"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/327943/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="22:30" />
+                    </sesiones>
+                </fecha>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="328080"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/328080/"
+                            sala="13" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                        <sesion id="328082"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/328082/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="328083"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/328083/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="327991"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/327991/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="22:30" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="328120"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdtodo-a-la-vez-en-todas-partes/328120/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AS BESTAS" id="5466" uid="33361"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdas-bestas/5466/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f6a.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>137</duracion>
+            <sinopsis>Antoine y Olga son una pareja francesa que se instal� hace tiempo en una aldea
+                del interior de Galicia. All� llevan una vida tranquila, aunque su convivencia con
+                los lugare�os no es tan id�lica como desear�an. Un conflicto con sus vecinos, los
+                hermanos Anta, har� que la tensi�n crezca en la aldea hasta alcanzar un punto de no
+                retorno.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=weQeV4ARY9M</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327835"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/327835/"
+                            sala="9" version="Versi�n Original Extranjera" formato="HD" hora="18:35" />
+                        <sesion id="327838"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/327838/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327928"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/327928/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327929"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/327929/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="328016"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/328016/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="18:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="328074"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/328074/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="328075"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/328075/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="328116"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdas-bestas/328116/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VEL�ZQUEZ, EL PODER Y EL ARTE" id="5494" uid="33464"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdvelazquez-el-poder-y-el-arte/5494/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00eyz.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>70</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="30/03/2023">
+                    <sesiones>
+                        <sesion id="325702"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdvelazquez-el-poder-y-el-arte/325702/"
+                            sala="11" version="Doblada al Castellano" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AVATAR 3D (HFR): EL SENTIDO DEL AGUA" id="5521" uid="33999"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/3davatar-3d-hfr-el-sentido-del-agua/5521/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00feh.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>190</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327830"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3davatar-3d-hfr-el-sentido-del-agua/327830/"
+                            sala="7" version="Doblada al Castellano" formato="3D" hora="20:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TURANDOT (OPERA DIRECTO)" id="5560" uid="34192"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdturandot-opera-directo/5560/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fke.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>200</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="325706"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdturandot-opera-directo/325706/"
+                            sala="11" version="Doblada al Castellano" formato="HD" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA CENICIENTA (BALLET DIRECTO)" id="5561" uid="34193"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-cenicienta-ballet-directo/5561/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fkf.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>DRAMA ROM�NTICA</genero>
+            <duracion>110</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="12/04/2023">
+                    <sesiones>
+                        <sesion id="325703"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-cenicienta-ballet-directo/325703/"
+                            sala="11" version="Original en Castellano" formato="HD" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BABYLON" id="5569" uid="34156"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdbabylon/5569/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fjq.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>188</duracion>
+            <sinopsis>Ambientada en Los Angeles durante los a�os 20, cuenta una historia de ambici�n
+                y excesos desmesurados que recorre la ascensi�n y ca�da de m�ltiples personajes
+                durante una �poca de desenfrenada decadencia y depravaci�n en los albores de
+                Hollywood.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=OjSG2XyKSzA</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327826"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdbabylon/327826/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="16:05" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA BALLENA (THE WHALE)" id="5575" uid="34211"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-ballena-the-whale/5575/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fl9.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>117</duracion>
+            <sinopsis>Un solitario profesor de ingl�s con obesidad severa (Brendan Fraser) intenta
+                reconectar con su hija adolescente en una �ltima oportunidad de redenci�n.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Rhd5EyZ-rEs</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327827"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327827/"
+                            sala="6" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327896"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327896/"
+                            sala="6" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                        <sesion id="327898"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327898/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327899"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327899/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="328006"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/328006/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="328051"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/328051/"
+                            sala="6" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="327970"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327970/"
+                            sala="6" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                        <sesion id="327971"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-ballena-the-whale/327971/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="22:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL TRI�NGULO DE LA TRISTEZA" id="5587" uid="32951"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-triangulo-de-la-tristeza/5587/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f54.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>147</duracion>
+            <sinopsis>Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son
+                invitados a un yate en un crucero de lujo. Mientras que la tripulaci�n brinda todas
+                las atenciones necesarias a los ricos invitados, el capit�n se niega a salir de su
+                cabina, a pesar de la llegada inminente de la c�lebre cena de gala. Los eventos
+                toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una
+                tormenta que pone en peligro el confort de los pasajeros.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Ia9-u2F8GKo</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327841"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-triangulo-de-la-tristeza/327841/"
+                            sala="12" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327936"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-triangulo-de-la-tristeza/327936/"
+                            sala="12" version="Doblada al Castellano" formato="HD" hora="22:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS FABELMAN" id="5588" uid="34339"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdlos-fabelman/5588/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fov.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>150</duracion>
+            <sinopsis>Film semiautobiogr�fico de la propia infancia y juventud de Spielberg.
+                Ambientada a finales de la d�cada de 1950 y principios de los a�os 60, un ni�o de
+                Arizona llamado Sammy Fabelman, influido por su exc�ntrica madre, artista (Michelle
+                Williams), y su pragm�tico padre, ingeniero inform�tico (Paul Dano), descubre un
+                secreto familiar devastador y explora c�mo el poder de las pel�culas puede ayudarlo
+                a contar historias y a forjar su propia identidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=aPPS3gs_wHE</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327839"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdlos-fabelman/327839/"
+                            sala="11" version="Doblada al Castellano" formato="HD" hora="19:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA NI�A DE LA COMUNI�N" id="5590" uid="34340"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-nina-de-la-comunion/5590/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fow.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>TERROR</genero>
+            <duracion>98</duracion>
+            <sinopsis>Finales de los 80, en un pueblo no determinado. Sara (Carla Campra) acaba de
+                llegar al pueblo y no encuentra su lugar en ese espacio cerrado. Su mejor amiga es
+                Rebe (Aina Qui�ones), mucho m�s extrovertida. Una noche van a una discoteca, toman
+                drogas y durante el trayecto a casa encontrar�n una mu�eca vestida de comuni�n. A
+                partir de ese momento, comenzar� la pesadilla.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=28Mp_EDS-9g</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327842"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-nina-de-la-comunion/327842/"
+                            sala="13" version="Original en Castellano" formato="HD" hora="17:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANT-MAN Y LA AVISPA: QUANTUMAN�A" id="5594" uid="34365"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdant-man-y-la-avispa-quantumania/5594/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fps.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>CIENCIA FICCI�N</genero>
+            <duracion>125</duracion>
+            <sinopsis>La pareja de superh�roes Scott Lang (Paul Rudd) y Hope Van Dyne (Evangeline
+                Lilly) regresan para continuar sus aventuras como Ant-Man y la Avispa. Junto a los
+                padres de Hope, Hank Pym (Michael Douglas) y Janet Van Dyne (Michelle Pfeiffer), la
+                familia se encuentra explorando el Reino Cu�ntico, mientras interact�an con extra�as
+                nuevas criaturas y se embarcan en una aventura que los llevar� m�s all� de los
+                l�mites de lo que pensaban que era posible.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=BaLJ044I2HI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327845"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdant-man-y-la-avispa-quantumania/327845/"
+                            sala="14" version="Doblada al Castellano" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="THE QUIET GIRL" id="5596" uid="34409"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdthe-quiet-girl/5596/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fr0.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>95</duracion>
+            <sinopsis>La Irlanda rural, 1981. C�it es una reservada ni�a de nueve a�os que est�
+                desatendida por parte de su pobre, disfuncional y demasiado numerosa familia. Se
+                enfrenta en silencio con dificultades en la escuela y en casa, y ha aprendido a
+                pasar desapercibida para cuantos la rodean. Cuando llega el verano y se acerca la
+                fecha del parto de su madre, C�it es enviada a vivir con unos parientes lejanos. Sin
+                saber cu�ndo volver� a casa, se queda en el hogar de unos desconocidos sin m�s
+                pertenencias que la ropa que lleva puesta. Poco a poco, y gracias a los cuidados de
+                la familia Kinsella, C�it realiza notables progresos y descubre una nueva forma de
+                vivir. Pero en esta casa donde reina el afecto y no parece haber secretos, ella
+                descubre una dolorosa verdad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=I5IRXuj5S54</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327823"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdthe-quiet-girl/327823/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="16:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MOMIAS" id="5598" uid="34437"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmomias/5598/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fry.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>88</duracion>
+            <sinopsis>En las entra�as de la tierra, �existe una ciudad de momias! Por mandato
+                imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno
+                desea el matrimonio; Nefer porque ans�a la libertad, y Thut porque es al�rgico al
+                matrimonio. Pero los designios de los dioses son irrevocables: Thut deber� desposar
+                a Nefer y custodiar el anillo real que el Fara�n le ha otorgado; si algo le
+                ocurriera a este, Thut perder�a los ojos y la lengua. Mientras tanto, en nuestro
+                mundo, Lord Carnaby lleva a cabo una excavaci�n arqueol�gica y encuentra algo �nico:
+                �un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para
+                recuperarlo. Le acompa�a Sekhem, su hermano de 12 a�os, con su mascota cocodrilo, y
+                Nefer. Juntos vivir�n una gran aventura en la moderna Londres y descubrir�n al</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=i7i_E35ca6E</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327813"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmomias/327813/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="IRATI" id="5599" uid="33945"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdirati/5599/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00feq.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>FANTAS�A</genero>
+            <duracion>111</duracion>
+            <sinopsis>Siglo VIII. El cristianismo se extiende por Europa mientras las creencias
+                paganas desaparecen. Ante el ataque del ej�rcito de Carlomagno atravesando los
+                Pirineos, el l�der del valle pide ayuda a una diosa ancestral. Mediante un pacto de
+                sangre, derrota al enemigo dando su vida a cambio, pero antes, hace prometer a su
+                hijo Eneko que proteger� y liderar� a su pueblo en la nueva era. A�os m�s tarde,
+                Eneko afronta esa promesa con una misi�n: recuperar el cuerpo de su padre enterrado
+                de forma pagana junto al tesoro de Carlomagno. Pese a su fe cristiana, necesitar� la
+                ayuda de Irati, una enigm�tica pagana de la zona. Los dos j�venes se adentrar�n en
+                un extra�o e inh�spito bosque donde todo lo que tiene nombre existe .</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=40Qsum9Gj9s</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327844"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdirati/327844/"
+                            sala="14" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GUARDIANES DE LA NOCHE: RUMBO A LA ALDEA DE LOS HERREROS" id="5604"
+                uid="34594"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdguardianes-de-la-noche-rumbo-a-la-aldea-de-los-herreros/5604/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g13.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>111</duracion>
+            <sinopsis>Tras el cruel asesinato de su familia, Tanjiro Kamado, un chico de buen
+                coraz�n, decide convertirse en cazador de demonios con la esperanza de volver a
+                convertir en humana a su hermana peque�a: Nezuko. Junto con sus camaradas Zenitsu e
+                Inosuke, y uno de los miembros de mayor rango del Cuerpo de Cazadores de Demonios,
+                Tengen Uzui, Tanjiro se embarca en una misi�n en el Distrito del Entretenimiento,
+                donde se encuentran con los formidables demonios de alto rango Daki y Gyutaro.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=RRZiN_vRH1c</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327815"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdguardianes-de-la-noche-rumbo-a-la-aldea-de-los-herreros/327815/"
+                            sala="1" version="Versi�n Original Extranjera" formato="HD" hora="20:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CREED III" id="5605" uid="34494"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcreed-iii/5605/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ftz.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>116</duracion>
+            <sinopsis>Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada m�s que
+                demostrar en el mundo del boxeo. Convertido en un �dolo de este boxeo pasa sus d�as
+                rodeado de su familia y seres queridos. Sin embargo, todo cambiar� cuando regrese un
+                fantasma de su infancia. Su amigo de juventud, Dami�n, acaba de salir de la c�rcel y
+                desea demostrar todo lo que ha aprendido de boxeo estos a�os. Por ello, querr�
+                enfrentarse en el cuadril�tero con su antiguo amigo. Adonis Creed tendr� que
+                enfrentarse a este adversario, que no solo quiere quitarle su t�tulo de boxeador,
+                sino que desea acabar con �l.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=IeZ5xDv3w6A</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327831"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcreed-iii/327831/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327886"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcreed-iii/327886/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TO LESLIE" id="5606" uid="34571"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdto-leslie/5606/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx4.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>119</duracion>
+            <sinopsis>Basada en hechos reales, cuenta la historia de Leslie, una madre soltera del
+                oeste de Texas, que hace seis a�os gan� la loter�a pero r�pidamente despilfarr� el
+                premio, gast�ndolo todo en fiestas y alcohol. Desahuciada, acude a su hijo en un
+                intento de recuperar el rumbo de su vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=sa4rxz5urMM</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327825"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdto-leslie/327825/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL HIJO" id="5607" uid="34570"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-hijo/5607/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvs.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>140</duracion>
+            <sinopsis>La ajetreada vida de Peter junto a su nueva pareja Emma y su beb� se convierte
+                en un caos cuando su ex esposa Kate reaparece con su hijo adolescente, Nicholas, un
+                joven problem�tico con el que es dif�cil comunicarse, por agresivo y distante, y que
+                acaba de abandonar la escuela.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FZFFAMkYw_M</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327816"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-hijo/327816/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="KING, MI PEQUE�O REY" id="5608" uid="34572"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdking-mi-pequeno-rey/5608/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvu.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>99</duracion>
+            <sinopsis>King, un cachorro de le�n destinado a una red de tr�fico de animales, logra
+                escaparse en un aeropuerto de Francia. Perdido, buscar� refugio en casa de In�s, de
+                12 a�os, y �lex, de 15. Cuando lo encuentran, los ni�os tienen la loca idea de
+                llev�rselo a �frica y devolverlo a su h�bitat. Sin embargo, todo se complicar�
+                cuando los agentes de aduanas les siguen la pista para tratar de recuperar al
+                cachorro. Es entonces cuando se unir� a la aventura Max, el abuelo de In�s y �lex,
+                al que �stos s�lo han visto dos veces. Max cuenta con un peculiar y exc�ntrico
+                car�cter y se propondr� ayudar a los peque�os en su misi�n.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=zGt9xiAmaP8</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327834"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdking-mi-pequeno-rey/327834/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CITA A CIEGAS CON EL CINE," id="5609" uid="34723"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g04.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>0</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="327564"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcita-a-ciegas-con-el-cine/327564/"
+                            sala="3" version="Versi�n Original Extranjera" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SCREAM VI" id="5610" uid="34588"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdscream-vi/5610/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx0.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>TERROR</genero>
+            <duracion>122</duracion>
+            <sinopsis>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) y Chad
+                (Mason Gooding) quieren tener una vida completamente normal, por ello, despu�s de la
+                masacre final de Ghostface en Woodsboro, deciden mudarse a Nueva York. Todos ellos
+                quieren abandonar esas horribles vivencias que sufrieron en su peque�o pueblo. Sin
+                embargo, no pueden escapar tan f�cilmente de sus problemas y les volver� a
+                perseguir, el ya conocido, asesino con una m�scara de fantasma. Lo comienzan a ver
+                en el metro, en el supermercado, en medio de la gran ciudad. Sam, Tara, Mindy y Chad
+                no est�n dispuestos a rendirse y se preparan para acabar con �l y volver a vivir en
+                tranquilidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=ECc_KdCZ8-I</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327818"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdscream-vi/327818/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MARI(DOS)" id="5611" uid="34616"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmaridos/5611/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx5.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>102</duracion>
+            <sinopsis>Toni (Paco Le�n) y Emilio (Ernesto Alterio) reciben la misma tr�gica llamada:
+                sus mujeres est�n en coma tras un alud en una estaci�n de esqu�. Cuando se presentan
+                en el mostrador de admisiones del hospital de monta�a hacen un sorprendente
+                descubrimiento: sus mujeres son, en realidad, la misma persona, Laura (Celia
+                Freijeiro). Durante a�os, Laura ha llevado en secreto vidas paralelas, una salvaje
+                monta�a rusa a caballo entre sus dos familias. Obligados a convivir hasta que Laura
+                despierte y pueda ser trasladada, Emilio y Toni luchan por demostrar qui�n de los
+                dos es el �nico y aut�ntico marido.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=KPHk2hD8l28</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327820"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmaridos/327820/"
+                            sala="4" version="Original en Castellano" formato="HD" hora="16:20" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL CAFT�N AZUL" id="5612" uid="34620"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-caftan-azul/5612/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx9.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>122</duracion>
+            <sinopsis>Halim lleva mucho tiempo casado con Mina, con quien regenta una tienda
+                tradicional de caftanes en la medina de Sal�, una de las m�s antiguas de Marruecos.
+                La pareja vive desde siempre con un secreto que Halim ha aprendido a ocultar, pero
+                la enfermedad de Mina y la llegada a la tienda de un joven aprendiz amenazan con
+                perturbar este equilibrio. Unidos por el amor, cada uno tratar� de ayudar al otro a
+                enfrentarse a sus miedos.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=xMewZDS5u-c</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327836"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-caftan-azul/327836/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VIOLETA, EL HADA TRAVIESA" id="5613" uid="34617"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdvioleta-el-hada-traviesa/5613/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx6.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un hada llamada Violeta se pierde en el mundo humano. Para volver al mundo de
+                las hadas, se encuentra con una ni�a de 12 a�os llamada Maxie y descubre su
+                verdadero destino.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=GY9ZlKKqbiI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327828"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdvioleta-el-hada-traviesa/327828/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA BELLEZA Y EL DOLOR" id="5614" uid="34705"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-belleza-y-el-dolor/5614/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fzp.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>113</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="327840"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-belleza-y-el-dolor/327840/"
+                            sala="12" version="Versi�n Original Extranjera" formato="HD"
+                            hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SUPER MARIO BROS. LA PEL�CULA" id="5615" uid="34791"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdsuper-mario-bros.-la-pelicula/5615/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g2d.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>92</duracion>
+            <sinopsis>Pel�cula de animaci�n basada en la franquicia de videojuegos Super Mario Bros.
+                de Nintendo. Est� producida por Shigeru Miyamoto, creador de la licencia, y la
+                producir� y animar� Illumination Entertainment (Los Minion).</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=_1f2RLdxQfA</trailer>
+            <fechas>
+                <fecha value="05/04/2023">
+                    <sesiones>
+                        <sesion id="327550"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdsuper-mario-bros.-la-pelicula/327550/"
+                            sala="13" version="Doblada al Castellano" formato="HD" hora="17:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SUPER MARIO BROS. LA PEL�CULA 3D" id="5616" uid="34817"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/5616/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g31.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero></genero>
+            <duracion>93</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="05/04/2023">
+                    <sesiones>
+                        <sesion id="327522"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327522/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327523"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327523/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327524"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327524/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327525"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327525/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="06/04/2023">
+                    <sesiones>
+                        <sesion id="327526"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327526/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327527"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327527/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327528"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327528/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327529"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327529/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="07/04/2023">
+                    <sesiones>
+                        <sesion id="327530"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327530/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327531"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327531/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327532"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327532/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327533"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327533/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="08/04/2023">
+                    <sesiones>
+                        <sesion id="327534"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327534/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327535"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327535/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327536"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327536/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327537"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327537/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="09/04/2023">
+                    <sesiones>
+                        <sesion id="327538"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327538/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327539"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327539/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327540"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327540/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327541"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327541/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="10/04/2023">
+                    <sesiones>
+                        <sesion id="327542"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327542/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327543"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327543/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327544"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327544/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327545"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327545/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="11/04/2023">
+                    <sesiones>
+                        <sesion id="327546"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327546/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="16:35" />
+                        <sesion id="327547"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327547/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="18:35" />
+                        <sesion id="327548"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327548/"
+                            sala="8" version="Doblada al Castellano" formato="3D" hora="20:35" />
+                        <sesion id="327549"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/3dsuper-mario-bros.-la-pelicula-3d/327549/"
+                            sala="8" version="Versi�n Original Extranjera" formato="3D" hora="22:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CINE CLUB LYS, BAJO TERAPIA" id="5617" uid="34780"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcine-club-lys-bajo-terapia/5617/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g1p.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>93</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="327846"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcine-club-lys-bajo-terapia/327846/"
+                            sala="3" version="Original en Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UN PASO ADELANTE" id="5618" uid="34752"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdun-paso-adelante/5618/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g11.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>117</duracion>
+            <sinopsis>�lise, de 26 a�os, es una gran bailarina cl�sica. Sufre una lesi�n durante una
+                funci�n y le informan que tendr� que dejar de bailar. A partir de ese momento, su
+                vida da un vuelco y �lise tendr� que aprender a reconstruirse...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Uc1Qu_XFtdY</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327511"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdun-paso-adelante/327511/"
+                            sala="3" version="Versi�n Original Extranjera" formato="HD" hora="12:00" />
+                        <sesion id="327870"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdun-paso-adelante/327870/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327873"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdun-paso-adelante/327873/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="327999"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdun-paso-adelante/327999/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="328094"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdun-paso-adelante/328094/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL EXTRA�O" id="5619" uid="34746"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-extrano/5619/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0v.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER</genero>
+            <duracion>95</duracion>
+            <sinopsis>Una joven se muda a un nuevo apartamento con su prometido y se ve atormentada
+                por la sensaci�n de ser acosada por un hombre que la observa desde un edificio de
+                enfrente.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=8ZRMBLq81i8</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327912"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/327912/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327915"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/327915/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="328011"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/328011/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="328064"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/328064/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="327978"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/327978/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="328110"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdel-extrano/328110/"
+                            sala="9" version="Doblada al Castellano" formato="HD" hora="16:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="�SHAZAM! LA FURIA DE LOS DIOSES" id="5620" uid="34558"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdshazam-la-furia-de-los-dioses/5620/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvo.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>130</duracion>
+            <sinopsis>Regresa Billy Batson (Asher Angel), un joven hu�rfano de 14 a�os, normal y
+                corriente, al que le cambia la vida por completo el convertirse en el superh�roe
+                adulto Shazam (Zachary Levi) cada vez que grita la palabra &apos;Shazam!&apos;.
+                Aunque con un ni�o en su interior, el poderoso cuerpo de Shazam hace lo que
+                cualquier adolescente con superpoderes har�a: �pas�rselo bien! Ahora adem�s, Billy
+                ha conseguido encontrar una familia de acogida, y tambi�n un amigo: Freddy Freeman
+                (Jack Dylan Grazer). Esta secuela de �Shazam! (2019) est� basada en los c�mics del
+                superh�roe de DC C�mics creado en 1939 por el guionista Bill Parker y el dibujante
+                Clarence Charles Beck.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=-17IRU3jQm4</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327904"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/327904/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="20:35" />
+                        <sesion id="327906"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/327906/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="327909"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/327909/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="328058"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/328058/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="328060"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/328060/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="327975"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/327975/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="328108"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdshazam-la-furia-de-los-dioses/328108/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS REYES DEL MUNDO" id="5621" uid="33429"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdlos-reyes-del-mundo/5621/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00eyc.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DRAMA</genero>
+            <duracion>103</duracion>
+            <sinopsis>Un d�a todos los hombres se quedaron dormidos Y los cercos de la tierra,
+                ardieron . Una historia sobre la desobediencia, la amistad y la dignidad que existe
+                en la resistencia. R�, Culebro, Sere, Winny y Nano. Cinco chicos de la calle de
+                Medell�n. Cinco reyes sin reino, sin ley, sin familia, emprenden un viaje en
+                b�squeda de la tierra prometida. Un cuento subversivo a trav�s de un clan salvaje y
+                entra�able, que transita entre realidad y delirio. Un viaje hacia la nada, donde
+                pasa todo.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=kaluHEA9vVM</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327920"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdlos-reyes-del-mundo/327920/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BAJO TERAPIA" id="5622" uid="34747"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdbajo-terapia/5622/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0w.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>93</duracion>
+            <sinopsis>Tres parejas acuden a una inusual sesi�n de terapia en grupo. La psic�loga les
+                ha dejado unos sobres con consignas que las parejas tendr�n que abordar y analizar
+                entre todos. Le mec�nica propuesta alienta a que todos opinen, discutan y finalmente
+                se acaben mostrando tal y como son. Con el humor como herramienta principal, el
+                encuentro se complicar� hasta l�mites insospechados.</sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327865"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdbajo-terapia/327865/"
+                            sala="2" version="Original en Castellano" formato="HD" hora="22:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="�Y QU� TENDR� QUE VER EL AMOR?" id="5623" uid="34750"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdy-que-tendra-que-ver-el-amor/5623/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0z.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA ROM�NTICA</genero>
+            <duracion>108</duracion>
+            <sinopsis>�C�mo encuentras un amor duradero hoy en d�a? Para la directora de
+                documentales y adicta a las aplicaciones de citas Zoe (Lily James), deslizar el dedo
+                hacia la derecha solo le ha proporcionado un flujo interminable de Mr. Imperfectos,
+                para gran consternaci�n de su exc�ntrica madre Cath (Emma Thompson). Para su amigo
+                de la infancia y vecino Kaz (Shazad Latif), la respuesta es seguir el ejemplo de sus
+                padres y optar por un matrimonio concertado (o asistido ) con una brillante y
+                hermosa novia de Pakist�n. Mientras Zoe filma el esperanzador viaje de su amigo
+                desde Londres a Lahore para casarse con una extra�a elegida por sus padres, comienza
+                a preguntarse si podr�a tener algo que aprender de un enfoque diferente para
+                encontrar el amor.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FMsN5NtMxjY</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="327894"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdy-que-tendra-que-ver-el-amor/327894/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="2" value="ABC PARK">
+        <address>C/ Roger de Lauria, 21</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="TODO A LA VEZ EN TODAS PARTES" id="615" uid="31544"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdtodo-a-la-vez-en-todas-partes/615/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00der.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>139</duracion>
+            <sinopsis>Una inmigrante china, en medio de una investigaci�n de Hacienda, se ve
+                envuelta en una aventura salvaje en la que solo ella puede salvar el mundo
+                explorando otros universos. Desafortunadamente, esto la lleva a una aventura a�n
+                mayor cuando se encuentra perdida en los mundos infinitos del multiverso.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=UcTzHfkgkRI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34710"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtodo-a-la-vez-en-todas-partes/34710/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="16:10" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AS BESTAS" id="818" uid="33361"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdas-bestas/818/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f6a.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>137</duracion>
+            <sinopsis>Antoine y Olga son una pareja francesa que se instal� hace tiempo en una aldea
+                del interior de Galicia. All� llevan una vida tranquila, aunque su convivencia con
+                los lugare�os no es tan id�lica como desear�an. Un conflicto con sus vecinos, los
+                hermanos Anta, har� que la tensi�n crezca en la aldea hasta alcanzar un punto de no
+                retorno.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=weQeV4ARY9M</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34711"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdas-bestas/34711/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="19:10" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL GATO CON BOTAS: EL �LTIMO DESEO" id="852" uid="33744"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-gato-con-botas-el-ultimo-deseo/852/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f78.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>102</duracion>
+            <sinopsis>Secuela de &apos;El gato con botas&apos; (2011). El Gato con Botas descubre
+                que su pasi�n por la aventura le ha pasado factura: ha consumido ocho de sus nueve
+                vidas, por ello emprende un viaje �pico para encontrar el m�tico �ltimo Deseo y
+                restaurar sus nueve vidas...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NGhz_KC0iPg</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34733"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-gato-con-botas-el-ultimo-deseo/34733/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="18:20" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AVATAR: EL SENTIDO DEL AGUA" id="860" uid="33743"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdavatar-el-sentido-del-agua/860/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f77.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>CIENCIA FICCI�N</genero>
+            <duracion>192</duracion>
+            <sinopsis>Ambientada m�s de una d�cada despu�s de los acontecimientos de la primera
+                pel�cula, &apos;Avatar: The Way of Water&apos; empieza contando la historia de la
+                familia Sully (Jake, Neytiri y sus hijos), los problemas que los persiguen, lo que
+                tienen que hacer para mantenerse a salvo, las batallas que libran para seguir con
+                vida y las tragedias que sufren. Secuela del �xito de taquilla Avatar (2009).</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FSyWAxUg3Go</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34916"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdavatar-el-sentido-del-agua/34916/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA BALLENA (THE WHALE)" id="919" uid="34211"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-ballena-the-whale/919/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fl9.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>117</duracion>
+            <sinopsis>Un solitario profesor de ingl�s con obesidad severa (Brendan Fraser) intenta
+                reconectar con su hija adolescente en una �ltima oportunidad de redenci�n.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Rhd5EyZ-rEs</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34874"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-ballena-the-whale/34874/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL TRI�NGULO DE LA TRISTEZA" id="925" uid="32951"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-triangulo-de-la-tristeza/925/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f54.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>147</duracion>
+            <sinopsis>Tras la Semana de la moda, Carl y Yaya, pareja de modelos e influencers, son
+                invitados a un yate en un crucero de lujo. Mientras que la tripulaci�n brinda todas
+                las atenciones necesarias a los ricos invitados, el capit�n se niega a salir de su
+                cabina, a pesar de la llegada inminente de la c�lebre cena de gala. Los eventos
+                toman un giro inesperado y el equilibrio de poder se invierte cuando se levanta una
+                tormenta que pone en peligro el confort de los pasajeros.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Ia9-u2F8GKo</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34789"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-triangulo-de-la-tristeza/34789/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="19:45" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL CIELO NO PUEDE ESPERAR" id="926" uid="34318"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-cielo-no-puede-esperar/926/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fnu.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>78</duracion>
+            <sinopsis>Pel�cula biogr�fica sobre el beato Carlo Acutis, un estudiante italiano y
+                aficionado programador de inform�tica, conocido por documentar milagros eucar�sticos
+                alrededor del mundo y catalogarlos en un sitio web que cre� antes de su muerte por
+                leucemia a los 15 a�os. Acutis fue beatificado por la Iglesia Cat�lica en el 2020.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=W4K_ClZ4o2U</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34831"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-cielo-no-puede-esperar/34831/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="16:05" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANT-MAN Y LA AVISPA: QUANTUMAN�A" id="934" uid="34365"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdant-man-y-la-avispa-quantumania/934/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fps.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>CIENCIA FICCI�N</genero>
+            <duracion>125</duracion>
+            <sinopsis>La pareja de superh�roes Scott Lang (Paul Rudd) y Hope Van Dyne (Evangeline
+                Lilly) regresan para continuar sus aventuras como Ant-Man y la Avispa. Junto a los
+                padres de Hope, Hank Pym (Michael Douglas) y Janet Van Dyne (Michelle Pfeiffer), la
+                familia se encuentra explorando el Reino Cu�ntico, mientras interact�an con extra�as
+                nuevas criaturas y se embarcan en una aventura que los llevar� m�s all� de los
+                l�mites de lo que pensaban que era posible.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=BaLJ044I2HI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34725"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdant-man-y-la-avispa-quantumania/34725/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS FABELMAN" id="938" uid="34339"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdlos-fabelman/938/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fov.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>150</duracion>
+            <sinopsis>Film semiautobiogr�fico de la propia infancia y juventud de Spielberg.
+                Ambientada a finales de la d�cada de 1950 y principios de los a�os 60, un ni�o de
+                Arizona llamado Sammy Fabelman, influido por su exc�ntrica madre, artista (Michelle
+                Williams), y su pragm�tico padre, ingeniero inform�tico (Paul Dano), descubre un
+                secreto familiar devastador y explora c�mo el poder de las pel�culas puede ayudarlo
+                a contar historias y a forjar su propia identidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=aPPS3gs_wHE</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34923"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdlos-fabelman/34923/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="19:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MOMIAS" id="945" uid="34437"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmomias/945/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fry.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>88</duracion>
+            <sinopsis>En las entra�as de la tierra, �existe una ciudad de momias! Por mandato
+                imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno
+                desea el matrimonio; Nefer porque ans�a la libertad, y Thut porque es al�rgico al
+                matrimonio. Pero los designios de los dioses son irrevocables: Thut deber� desposar
+                a Nefer y custodiar el anillo real que el Fara�n le ha otorgado; si algo le
+                ocurriera a este, Thut perder�a los ojos y la lengua. Mientras tanto, en nuestro
+                mundo, Lord Carnaby lleva a cabo una excavaci�n arqueol�gica y encuentra algo �nico:
+                �un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para
+                recuperarlo. Le acompa�a Sekhem, su hermano de 12 a�os, con su mascota cocodrilo, y
+                Nefer. Juntos vivir�n una gran aventura en la moderna Londres y descubrir�n al</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=i7i_E35ca6E</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34753"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmomias/34753/"
+                            sala="4" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ELLAS HABLAN" id="946" uid="34366"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdellas-hablan/946/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fpt.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>104</duracion>
+            <sinopsis>Un grupo de mujeres, en una colonia religiosa aislada en medio de Bolivia,
+                luchan por reconciliarse con su fe tras una serie de agresiones sexuales cometidas
+                por los hombres de la colonia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=yfDAcKguj3Q</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35025"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdellas-hablan/35025/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="22:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MISSING" id="951" uid="34436"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmissing/951/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00frx.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>111</duracion>
+            <sinopsis>Cuando su madre desaparece estando de vacaciones en Colombia con su nuevo
+                novio, la b�squeda de respuestas por parte de June se ve entorpecida por la
+                burocracia internacional. Atascada en Los �ngeles, a miles de kil�metros de
+                distancia, June utiliza toda la tecnolog�a a su disposici�n para intentar
+                encontrarla antes de que sea demasiado tarde. Pero cuanto m�s profundiza en su
+                b�squeda, su investigaci�n digital levanta m�s preguntas que respuestas y cuando
+                June revela secretos sobre su madre, se da cuenta de que nunca la conoci� realmente.
+                Secuela de &apos;Searching&apos; (2018).</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=VwbeVeLgqR4</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34740"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmissing/34740/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="22:40" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="IRATI" id="953" uid="33945"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdirati/953/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00feq.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>FANTAS�A</genero>
+            <duracion>111</duracion>
+            <sinopsis>Siglo VIII. El cristianismo se extiende por Europa mientras las creencias
+                paganas desaparecen. Ante el ataque del ej�rcito de Carlomagno atravesando los
+                Pirineos, el l�der del valle pide ayuda a una diosa ancestral. Mediante un pacto de
+                sangre, derrota al enemigo dando su vida a cambio, pero antes, hace prometer a su
+                hijo Eneko que proteger� y liderar� a su pueblo en la nueva era. A�os m�s tarde,
+                Eneko afronta esa promesa con una misi�n: recuperar el cuerpo de su padre enterrado
+                de forma pagana junto al tesoro de Carlomagno. Pese a su fe cristiana, necesitar� la
+                ayuda de Irati, una enigm�tica pagana de la zona. Los dos j�venes se adentrar�n en
+                un extra�o e inh�spito bosque donde todo lo que tiene nombre existe .</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=40Qsum9Gj9s</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34881"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdirati/34881/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="22:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="OPERA HAMLET - �PERA DE PAR�S" id="961" uid="34605"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdopera-hamlet---opera-de-paris/961/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fwq.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>200</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="30/03/2023">
+                    <sesiones>
+                        <sesion id="34345"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdopera-hamlet---opera-de-paris/34345/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="19:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GUARDIANES DE LA NOCHE: RUMBO A LA ALDEA DE LOS HERREROS" id="962"
+                uid="34594"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdguardianes-de-la-noche-rumbo-a-la-aldea-de-los-herreros/962/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g13.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>111</duracion>
+            <sinopsis>Tras el cruel asesinato de su familia, Tanjiro Kamado, un chico de buen
+                coraz�n, decide convertirse en cazador de demonios con la esperanza de volver a
+                convertir en humana a su hermana peque�a: Nezuko. Junto con sus camaradas Zenitsu e
+                Inosuke, y uno de los miembros de mayor rango del Cuerpo de Cazadores de Demonios,
+                Tengen Uzui, Tanjiro se embarca en una misi�n en el Distrito del Entretenimiento,
+                donde se encuentran con los formidables demonios de alto rango Daki y Gyutaro.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=RRZiN_vRH1c</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34909"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdguardianes-de-la-noche-rumbo-a-la-aldea-de-los-herreros/34909/"
+                            sala="9" version="Versi�n Original Extranjera" formato="HD" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="JOHN WICK 4" id="965" uid="34607"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdjohn-wick-4/965/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx2.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>169</duracion>
+            <sinopsis>John Wick, legendario asesino retirado, vuelve de nuevo a la acci�n impulsado
+                por una incontrolable b�squeda de venganza. Al tener que luchar contra asesinos
+                sedientos de sangre que le persiguen, John tendr� que llevar sus habilidades al
+                l�mite si quiere salir esta vez con vida.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=MGqTgMkk9LA</trailer>
+            <fechas>
+                <fecha value="24/03/2023">
+                    <sesiones>
+                        <sesion id="34356"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdjohn-wick-4/34356/"
+                            sala="12" version="Doblada al Castellano" formato="HD" hora="19:05" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SCREAM VI" id="966" uid="34588"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdscream-vi/966/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx0.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>TERROR</genero>
+            <duracion>122</duracion>
+            <sinopsis>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) y Chad
+                (Mason Gooding) quieren tener una vida completamente normal, por ello, despu�s de la
+                masacre final de Ghostface en Woodsboro, deciden mudarse a Nueva York. Todos ellos
+                quieren abandonar esas horribles vivencias que sufrieron en su peque�o pueblo. Sin
+                embargo, no pueden escapar tan f�cilmente de sus problemas y les volver� a
+                perseguir, el ya conocido, asesino con una m�scara de fantasma. Lo comienzan a ver
+                en el metro, en el supermercado, en medio de la gran ciudad. Sam, Tara, Mindy y Chad
+                no est�n dispuestos a rendirse y se preparan para acabar con �l y volver a vivir en
+                tranquilidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=ECc_KdCZ8-I</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34676"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdscream-vi/34676/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35010"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdscream-vi/35010/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MARI(DOS)" id="967" uid="34616"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmaridos/967/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx5.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>102</duracion>
+            <sinopsis>Toni (Paco Le�n) y Emilio (Ernesto Alterio) reciben la misma tr�gica llamada:
+                sus mujeres est�n en coma tras un alud en una estaci�n de esqu�. Cuando se presentan
+                en el mostrador de admisiones del hospital de monta�a hacen un sorprendente
+                descubrimiento: sus mujeres son, en realidad, la misma persona, Laura (Celia
+                Freijeiro). Durante a�os, Laura ha llevado en secreto vidas paralelas, una salvaje
+                monta�a rusa a caballo entre sus dos familias. Obligados a convivir hasta que Laura
+                despierte y pueda ser trasladada, Emilio y Toni luchan por demostrar qui�n de los
+                dos es el �nico y aut�ntico marido.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=KPHk2hD8l28</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34690"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmaridos/34690/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="18:20" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CREED III" id="969" uid="34494"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdcreed-iii/969/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ftz.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>116</duracion>
+            <sinopsis>Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada m�s que
+                demostrar en el mundo del boxeo. Convertido en un �dolo de este boxeo pasa sus d�as
+                rodeado de su familia y seres queridos. Sin embargo, todo cambiar� cuando regrese un
+                fantasma de su infancia. Su amigo de juventud, Dami�n, acaba de salir de la c�rcel y
+                desea demostrar todo lo que ha aprendido de boxeo estos a�os. Por ello, querr�
+                enfrentarse en el cuadril�tero con su antiguo amigo. Adonis Creed tendr� que
+                enfrentarse a este adversario, que no solo quiere quitarle su t�tulo de boxeador,
+                sino que desea acabar con �l.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=IeZ5xDv3w6A</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34866"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdcreed-iii/34866/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="18:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA INSPIRACI�N. EL GRAN PIRANDELLO" id="971" uid="34574"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-inspiracion.-el-gran-pirandello/971/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvw.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>107</duracion>
+            <sinopsis>Durante un viaje a Sicilia en 1920, Luigi Pirandello conoce a Onofrio
+                Principato y Sebastiano Vella, dos actores que ensayan un nuevo espect�culo con los
+                actores de su dramaturgia amateur. Este encuentro trae grandes sorpresas.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=qQ52-OtYFnE</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34824"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-inspiracion.-el-gran-pirandello/34824/"
+                            sala="6" version="Versi�n Original Extranjera" formato="HD" hora="20:10" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL HIJO" id="972" uid="34570"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-hijo/972/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvs.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>140</duracion>
+            <sinopsis>La ajetreada vida de Peter junto a su nueva pareja Emma y su beb� se convierte
+                en un caos cuando su ex esposa Kate reaparece con su hijo adolescente, Nicholas, un
+                joven problem�tico con el que es dif�cil comunicarse, por agresivo y distante, y que
+                acaba de abandonar la escuela.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FZFFAMkYw_M</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34796"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-hijo/34796/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="22:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SAINT OMER. EL PUEBLO CONTRA LAURENCE COLY" id="973" uid="34573"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsaint-omer.-el-pueblo-contra-laurence-coly/973/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvv.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>118</duracion>
+            <sinopsis>Tribunal de Saint Omer. La joven novelista Rama asiste al juicio de Laurence
+                Coly, una joven acusada de matar a su hija de 15 meses al abandonarla a la subida de
+                la marea en una playa del norte de Francia. Pero a medida que avanza el juicio, las
+                palabras de la acusada y los testimonios de los testigos hara n tambalear las
+                convicciones de Rama y pondra n en duda el propio juicio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=9lHAL1_dU0s</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34803"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsaint-omer.-el-pueblo-contra-laurence-coly/34803/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ETERNA" id="975" uid="34593"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdeterna/975/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx1.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>99</duracion>
+            <sinopsis>La voz y las letras de Gata Cattana marcaron a toda una generaci�n de
+                espa�oles con su fuerza y compromiso. La joven pas� r�pidamente de ser una chica
+                desconocida a ser una de las figuras m�s relevantes de la escena cultural del pa�s.
+                Todos sus trabajos se convirtieron en himnos generacionales gracias a su implicaci�n
+                con el feminismo, los movimientos sociales o la cultura andaluza. Sin embargo, Gata
+                Cattana falleci� de manera repentina el 2 de marzo de 2017, dejando un enorme
+                musical y personal. El documental Eterna se sumerge en su figura y acompa�a su
+                historia con las voces m�s relevantes del rap de habla hispana en los �ltimos a�os.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=L9407Zzdrzg</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34761"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdeterna/34761/"
+                            sala="4" version="Doblada al Castellano" formato="HD" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TU JHOOTI MAIN MAKKAAR" id="977" uid="34683"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdtu-jhooti-main-makkaar/977/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fyx.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>150</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34852"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/34852/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="19:25" />
+                    </sesiones>
+                </fecha>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35021"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35021/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="35069"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35069/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="35185"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35185/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="35228"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35228/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="35139"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35139/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="35272"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdtu-jhooti-main-makkaar/35272/"
+                            sala="4" version="Versi�n Original Extranjera" formato="HD" hora="22:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VIOLETA, EL HADA TRAVIESA" id="980" uid="34617"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdvioleta-el-hada-traviesa/980/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx6.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un hada llamada Violeta se pierde en el mundo humano. Para volver al mundo de
+                las hadas, se encuentra con una ni�a de 12 a�os llamada Maxie y descubre su
+                verdadero destino.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=GY9ZlKKqbiI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34838"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdvioleta-el-hada-traviesa/34838/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="17:50" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PURGATORIO" id="981" uid="34745"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdpurgatorio/981/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0u.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>91</duracion>
+            <sinopsis>Inspir�ndose en las cr�nicas de Fulla Horak, St. Faustina Kowalska y St. Padre
+                Pio, &quot;Purgatory&quot; cuenta una historia de almas inmortales que habitan a la
+                vez en los cuerpos de la Tierra y de los que ya se han ido.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=O2N0WeYjJts</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34781"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdpurgatorio/34781/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="16:05" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SICK OF MYSELF" id="982" uid="34618"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsick-of-myself/982/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx7.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>97</duracion>
+            <sinopsis>Signe y Thomas mantienen una relaci�n de pareja malsana y competitiva, que
+                toma un giro pernicioso cuando Thomas obtiene cierta notoriedad como artista
+                contempor�neo. La reacci�n de Signe consistir� en inventarse un nuevo personaje y
+                tratar a la desesperada de llamar la atenci�n y suscitar la compasi�n para recuperar
+                su estatus.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=AQYl6ilIjv4</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34768"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsick-of-myself/34768/"
+                            sala="4" version="Doblada al Castellano" formato="HD" hora="22:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SUPER MARIO BROS. LA PEL�CULA" id="985" uid="34791"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsuper-mario-bros.-la-pelicula/985/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g2d.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>92</duracion>
+            <sinopsis>Pel�cula de animaci�n basada en la franquicia de videojuegos Super Mario Bros.
+                de Nintendo. Est� producida por Shigeru Miyamoto, creador de la licencia, y la
+                producir� y animar� Illumination Entertainment (Los Minion).</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=_1f2RLdxQfA</trailer>
+            <fechas>
+                <fecha value="05/04/2023">
+                    <sesiones>
+                        <sesion id="34988"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsuper-mario-bros.-la-pelicula/34988/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="18:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL HIJO - CLUB ROSEBUD" id="986" uid="34823"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-hijo---club-rosebud/986/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g37.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>140</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="34993"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-hijo---club-rosebud/34993/"
+                            sala="1" version="Versi�n Original Extranjera" formato="HD" hora="17:30" />
+                        <sesion id="34997"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-hijo---club-rosebud/34997/"
+                            sala="12" version="Doblada al Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SIN NOVEDAD EN EL FRENTE" id="987" uid="33159"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdsin-novedad-en-el-frente/987/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00eqm.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>B�LICO</genero>
+            <duracion>147</duracion>
+            <sinopsis>Las aterradoras experiencias y la angustia de un joven soldado alem�n en el
+                frente occidental durante la Primera Guerra Mundial.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=unpEILjbyRw</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="34845"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdsin-novedad-en-el-frente/34845/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="22:05" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="�SHAZAM! LA FURIA DE LOS DIOSES" id="988" uid="34558"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdshazam-la-furia-de-los-dioses/988/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fvo.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>130</duracion>
+            <sinopsis>Regresa Billy Batson (Asher Angel), un joven hu�rfano de 14 a�os, normal y
+                corriente, al que le cambia la vida por completo el convertirse en el superh�roe
+                adulto Shazam (Zachary Levi) cada vez que grita la palabra &apos;Shazam!&apos;.
+                Aunque con un ni�o en su interior, el poderoso cuerpo de Shazam hace lo que
+                cualquier adolescente con superpoderes har�a: �pas�rselo bien! Ahora adem�s, Billy
+                ha conseguido encontrar una familia de acogida, y tambi�n un amigo: Freddy Freeman
+                (Jack Dylan Grazer). Esta secuela de �Shazam! (2019) est� basada en los c�mics del
+                superh�roe de DC C�mics creado en 1939 por el guionista Bill Parker y el dibujante
+                Clarence Charles Beck.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=-17IRU3jQm4</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35008"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdshazam-la-furia-de-los-dioses/35008/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="18:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL EXTRA�O" id="989" uid="34746"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-extrano/989/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0v.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER</genero>
+            <duracion>95</duracion>
+            <sinopsis>Una joven se muda a un nuevo apartamento con su prometido y se ve atormentada
+                por la sensaci�n de ser acosada por un hombre que la observa desde un edificio de
+                enfrente.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=8ZRMBLq81i8</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35007"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-extrano/35007/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="20:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="IN VIAGGIO, VIAJANDO CON EL PAPA FRANCISCO" id="990" uid="34848"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdin-viaggio-viajando-con-el-papa-francisco/990/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g3o.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>80</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35037"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdin-viaggio-viajando-con-el-papa-francisco/35037/"
+                            sala="8" version="Doblada al Castellano" formato="HD" hora="18:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="�Y QU� TENDR� QUE VER EL AMOR?" id="991" uid="34750"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdy-que-tendra-que-ver-el-amor/991/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g0z.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA ROM�NTICA</genero>
+            <duracion>108</duracion>
+            <sinopsis>�C�mo encuentras un amor duradero hoy en d�a? Para la directora de
+                documentales y adicta a las aplicaciones de citas Zoe (Lily James), deslizar el dedo
+                hacia la derecha solo le ha proporcionado un flujo interminable de Mr. Imperfectos,
+                para gran consternaci�n de su exc�ntrica madre Cath (Emma Thompson). Para su amigo
+                de la infancia y vecino Kaz (Shazad Latif), la respuesta es seguir el ejemplo de sus
+                padres y optar por un matrimonio concertado (o asistido ) con una brillante y
+                hermosa novia de Pakist�n. Mientras Zoe filma el esperanzador viaje de su amigo
+                desde Londres a Lahore para casarse con una extra�a elegida por sus padres, comienza
+                a preguntarse si podr�a tener algo que aprender de un enfoque diferente para
+                encontrar el amor.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FMsN5NtMxjY</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35022"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdy-que-tendra-que-ver-el-amor/35022/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA SANTA DE LO IMPOSIBLE" id="992" uid="31971"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdla-santa-de-lo-imposible/992/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00drc.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>98</duracion>
+            <sinopsis>Paul y Tito son gemelos adolescentes, repartidores, v�rgenes e inmigrantes
+                ilegales en Nueva York. Rezan a la santa de los casos perdidos para perder la
+                virginidad. La edad adulta, creen, ser� la cura definitiva para todos sus males.
+                Cuando conocen a Kristin, una salvaje chica croata, se enamoran, convencidos de
+                haber encontrado a la mujer adecuada. Pero Kristin lucha contra sus propios
+                demonios, sacrificando todo por su idea del amor. Mientras tanto, su madre,
+                Raffaella, se pierde por un novelista suizo de ficci�n, que le promete estabilidad y
+                futuro.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=KNrqxw4K5Xw&amp;t=26s</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35027"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdla-santa-de-lo-imposible/35027/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="18:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MY SUNNY MAAD" id="993" uid="32962"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmy-sunny-maad/993/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fxa.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>81</duracion>
+            <sinopsis>Cuando Herra, una joven checa, se enamora de Nazir, un afgano, no consciente
+                de la clase de vida que le espera en la Afganist�n post-talib�n, ni el tipo de
+                familia de la que va a formar parte: un abuelo liberal, un ni�o adoptado con altas
+                capacidades y Freshta, que har�a cualquier cosa para escapar de la violentas garras
+                de su marido.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=1wmQyuXRLnc</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35031"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35031/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="35078"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35078/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="35114"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35114/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="35195"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35195/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="35238"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35238/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="22/03/2023">
+                    <sesiones>
+                        <sesion id="35149"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35149/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+                <fecha value="23/03/2023">
+                    <sesiones>
+                        <sesion id="35282"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmy-sunny-maad/35282/"
+                            sala="7" version="Versi�n Original Extranjera" formato="HD" hora="18:45" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="COPPELIA" id="994" uid="34753"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdcoppelia/994/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g12.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>INFANTIL</genero>
+            <duracion>82</duracion>
+            <sinopsis>Cuando toda la ciudad cae bajo el encanto del carism�tico cirujano Dr.
+                Coppelius, la joven Swan debe salvar a su amado Franz antes de que su coraz�n sea
+                usado para darle vida a Coppelia, la mujer robot que el Doctor ha creado.</sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="18/03/2023">
+                    <sesiones>
+                        <sesion id="35303"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdcoppelia/35303/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BLUE THERMAL" id="995" uid="34751"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdblue-thermal/995/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g10.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>104</duracion>
+            <sinopsis>Tamaki Tsuru es una chica deportista que ha estado en clubs deportivos durante
+                toda su vida escolar hasta el instituto. Cuando llega a la universidad y queriendo
+                avanzar en su vida amorosa, acaba por una serie de eventos en el club de planeadores
+                de la univesidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=q1MzKi-hiDQ</trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35029"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdblue-thermal/35029/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="20:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="IBERIA, NATURALEZA INFINITA" id="996" uid="34849"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdiberia-naturaleza-infinita/996/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g3p.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>72</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/03/2023">
+                    <sesiones>
+                        <sesion id="35032"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdiberia-naturaleza-infinita/35032/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="20:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MADALENA" id="997" uid="33776"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/abcpark/hdmadalena/997/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f86.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un cuerpo sin vida yace en mitad de un campo de soja, vestido con un traje
+                blanco, impasible. Nadie sabe qui�n asesin� a Madalena, una transexual, ni c�mo ni
+                por qu�.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=EeA7MD24rNI</trailer>
+            <fechas>
+                <fecha value="21/03/2023">
+                    <sesiones>
+                        <sesion id="35224"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdmadalena/35224/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="RAFAEL AL DESCUBIERTO" id="998" uid="34491"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdrafael-al-descubierto/998/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ft8.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>90</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="20/03/2023">
+                    <sesiones>
+                        <sesion id="35304"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdrafael-al-descubierto/35304/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="18:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="DUNGEONS &amp; DRAGONS: HONOR ENTRE LADRONES" id="999" uid="34790"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hddungeons--dragons-honor-entre-ladrones/999/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g2c.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>FANT�STICO</genero>
+            <duracion>134</duracion>
+            <sinopsis>Adaptaci�n cinematogr�fica del primer juego de rol de la historia, publicado
+                por primera vez en 1974. Un ladr�n encantador y una banda de aventureros incre�bles
+                emprenden un atraco �pico para recuperar una reliquia perdida, pero las cosas salen
+                rematadamente mal cuando se topan con las personas equivocadas.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=YgB324ne4Ek</trailer>
+            <fechas>
+                <fecha value="19/03/2023">
+                    <sesiones>
+                        <sesion id="35305"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hddungeons--dragons-honor-entre-ladrones/35305/"
+                            sala="11" version="Doblada al Castellano" formato="HD" hora="18:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL HOTEL DE LOS L�OS" id="1000" uid="34797"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/abcpark/hdel-hotel-de-los-lios/1000/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00g2h.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>88</duracion>
+            <sinopsis>Tras hacerse cargo de un hotelito destartalado, comprado por error en una
+                subasta por un precio desorbitado, los dos Javier Garc�a viven una nueva aventura,
+                ayudados esta vez, muy a su pesar, por un grupo de ni�os superdotados que se alojan
+                en el hotel para asistir a la Final Nacional de Talentos. Junto a su explosiva
+                profe, Martina, los ni�os se enfrentar�n al mafioso Benito Camarena, que con sus
+                secuaces - su madre y su hermano - tratar�n de arrebatar a los Garc�a el bot�n
+                escondido en el hotel, antigua guarida de los facinerosos. Spin-off de &apos;Garc�a
+                y Garc�a&apos; (2021).</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=lQcocbUx4Lo</trailer>
+            <fechas>
+                <fecha value="24/03/2023">
+                    <sesiones>
+                        <sesion id="35003"
+                            url="https://www.reservaentradas.com/entrada/valencia/abcpark/hdel-hotel-de-los-lios/35003/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="18:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="3" value="CINES AXION SANTA POLA">
+        <address>Av. de Portugal, 39</address>
+        <postcode>03130</postcode>
+        <city>Santa Pola</city>
+        <evento>
+            <titulo value="AS BESTAS" id="1834" uid="33361"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdas-bestas/1834/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f6a.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>137</duracion>
+            <sinopsis>Antoine y Olga son una pareja francesa que se instal� hace tiempo en una aldea
+                del interior de Galicia. All� llevan una vida tranquila, aunque su convivencia con
+                los lugare�os no es tan id�lica como desear�an. Un conflicto con sus vecinos, los
+                hermanos Anta, har� que la tensi�n crezca en la aldea hasta alcanzar un punto de no
+                retorno.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=weQeV4ARY9M</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79880"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdas-bestas/79880/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="18:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AVATAR: EL SENTIDO DEL AGUA 3D" id="1842" uid="33880"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/3davatar-el-sentido-del-agua-3d/1842/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fba.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>190</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79886"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/3davatar-el-sentido-del-agua-3d/79886/"
+                            sala="3" version="Doblada al Castellano" formato="3D" hora="19:20" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL GATO CON BOTAS: EL �LTIMO DESEO" id="1844" uid="33744"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdel-gato-con-botas-el-ultimo-deseo/1844/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00f78.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>102</duracion>
+            <sinopsis>Secuela de &apos;El gato con botas&apos; (2011). El Gato con Botas descubre
+                que su pasi�n por la aventura le ha pasado factura: ha consumido ocho de sus nueve
+                vidas, por ello emprende un viaje �pico para encontrar el m�tico �ltimo Deseo y
+                restaurar sus nueve vidas...</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=NGhz_KC0iPg</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79910"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdel-gato-con-botas-el-ultimo-deseo/79910/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="17:40" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL PILOTO" id="1858" uid="34341"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdel-piloto/1858/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fox.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>108</duracion>
+            <sinopsis>En la noche de fin de a�o, el piloto experto Brodie Torrance (Gerard Butler)
+                realiza un arriesgado aterrizaje cuando su avi�n, repleto de pasajeros, es alcanzado
+                por un rayo. Perdidos en medio de una isla devastada por la guerra, Torrance se dar�
+                cuenta que sobrevivir al vuelo s�lo ha sido el principio de una terrible aventura
+                llena de peligros. El piloto deber� usar todo su ingenio para intentar llevar a los
+                pasajeros a sus destinos sanos y salvos.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=BAnCLa0__mQ</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79914"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdel-piloto/79914/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="21:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANT-MAN Y LA AVISPA: QUANTUMAN�A" id="1862" uid="34365"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdant-man-y-la-avispa-quantumania/1862/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fps.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>CIENCIA FICCI�N</genero>
+            <duracion>125</duracion>
+            <sinopsis>La pareja de superh�roes Scott Lang (Paul Rudd) y Hope Van Dyne (Evangeline
+                Lilly) regresan para continuar sus aventuras como Ant-Man y la Avispa. Junto a los
+                padres de Hope, Hank Pym (Michael Douglas) y Janet Van Dyne (Michelle Pfeiffer), la
+                familia se encuentra explorando el Reino Cu�ntico, mientras interact�an con extra�as
+                nuevas criaturas y se embarcan en una aventura que los llevar� m�s all� de los
+                l�mites de lo que pensaban que era posible.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=BaLJ044I2HI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79882"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdant-man-y-la-avispa-quantumania/79882/"
+                            sala="2" version="Doblada al Castellano" formato="HD" hora="20:20" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MOMIAS" id="1863" uid="34437"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdmomias/1863/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fry.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>88</duracion>
+            <sinopsis>En las entra�as de la tierra, �existe una ciudad de momias! Por mandato
+                imperial, la Princesa Nefer debe casarse con Thut, un ex auriga de carros. Ninguno
+                desea el matrimonio; Nefer porque ans�a la libertad, y Thut porque es al�rgico al
+                matrimonio. Pero los designios de los dioses son irrevocables: Thut deber� desposar
+                a Nefer y custodiar el anillo real que el Fara�n le ha otorgado; si algo le
+                ocurriera a este, Thut perder�a los ojos y la lengua. Mientras tanto, en nuestro
+                mundo, Lord Carnaby lleva a cabo una excavaci�n arqueol�gica y encuentra algo �nico:
+                �un anillo de boda real egipcia! Thut debe ir al mundo de los humanos para
+                recuperarlo. Le acompa�a Sekhem, su hermano de 12 a�os, con su mascota cocodrilo, y
+                Nefer. Juntos vivir�n una gran aventura en la moderna Londres y descubrir�n al</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=i7i_E35ca6E</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79912"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdmomias/79912/"
+                            sala="5" version="Doblada al Castellano" formato="HD" hora="19:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CREED III" id="1864" uid="34494"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdcreed-iii/1864/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ftz.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>116</duracion>
+            <sinopsis>Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada m�s que
+                demostrar en el mundo del boxeo. Convertido en un �dolo de este boxeo pasa sus d�as
+                rodeado de su familia y seres queridos. Sin embargo, todo cambiar� cuando regrese un
+                fantasma de su infancia. Su amigo de juventud, Dami�n, acaba de salir de la c�rcel y
+                desea demostrar todo lo que ha aprendido de boxeo estos a�os. Por ello, querr�
+                enfrentarse en el cuadril�tero con su antiguo amigo. Adonis Creed tendr� que
+                enfrentarse a este adversario, que no solo quiere quitarle su t�tulo de boxeador,
+                sino que desea acabar con �l.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=IeZ5xDv3w6A</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79908"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdcreed-iii/79908/"
+                            sala="4" version="Doblada al Castellano" formato="HD" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SCREAM VI" id="1866" uid="34588"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdscream-vi/1866/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx0.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>TERROR</genero>
+            <duracion>122</duracion>
+            <sinopsis>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) y Chad
+                (Mason Gooding) quieren tener una vida completamente normal, por ello, despu�s de la
+                masacre final de Ghostface en Woodsboro, deciden mudarse a Nueva York. Todos ellos
+                quieren abandonar esas horribles vivencias que sufrieron en su peque�o pueblo. Sin
+                embargo, no pueden escapar tan f�cilmente de sus problemas y les volver� a
+                perseguir, el ya conocido, asesino con una m�scara de fantasma. Lo comienzan a ver
+                en el metro, en el supermercado, en medio de la gran ciudad. Sam, Tara, Mindy y Chad
+                no est�n dispuestos a rendirse y se preparan para acabar con �l y volver a vivir en
+                tranquilidad.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=ECc_KdCZ8-I</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79904"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdscream-vi/79904/"
+                            sala="1" version="Doblada al Castellano" formato="HD" hora="20:25" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VIOLETA, EL HADA TRAVIESA" id="1867" uid="34617"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdvioleta-el-hada-traviesa/1867/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx6.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>85</duracion>
+            <sinopsis>Un hada llamada Violeta se pierde en el mundo humano. Para volver al mundo de
+                las hadas, se encuentra con una ni�a de 12 a�os llamada Maxie y descubre su
+                verdadero destino.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=GY9ZlKKqbiI</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79896"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdvioleta-el-hada-traviesa/79896/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="17:40" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MARI(DOS)" id="1868" uid="34616"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/santa-pola/cinesaxion/hdmaridos/1868/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fx5.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>102</duracion>
+            <sinopsis>Toni (Paco Le�n) y Emilio (Ernesto Alterio) reciben la misma tr�gica llamada:
+                sus mujeres est�n en coma tras un alud en una estaci�n de esqu�. Cuando se presentan
+                en el mostrador de admisiones del hospital de monta�a hacen un sorprendente
+                descubrimiento: sus mujeres son, en realidad, la misma persona, Laura (Celia
+                Freijeiro). Durante a�os, Laura ha llevado en secreto vidas paralelas, una salvaje
+                monta�a rusa a caballo entre sus dos familias. Obligados a convivir hasta que Laura
+                despierte y pueda ser trasladada, Emilio y Toni luchan por demostrar qui�n de los
+                dos es el �nico y aut�ntico marido.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=KPHk2hD8l28</trailer>
+            <fechas>
+                <fecha value="16/03/2023">
+                    <sesiones>
+                        <sesion id="79899"
+                            url="https://www.reservaentradas.com/entrada/santa-pola/cinesaxion/hdmaridos/79899/"
+                            sala="7" version="Doblada al Castellano" formato="HD" hora="19:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+</cartelera>
